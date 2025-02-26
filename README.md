@@ -8,4 +8,4 @@ PHP Project
 
 ### DataBase: MySQL 
 
-### IA Agent with CrewIA and Ollama3
+### ChatBot with CrewIA and Ollama3
