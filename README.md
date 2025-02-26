@@ -1,10 +1,9 @@
 # SupplyPHP
 PHP Project
  
-## Idea: Tattoo Supply based on Fazado Tattoo Studio
+## Idea: SALE OF TECHNOLOGICAL DEVICES
 - Catching clients
 - Recommend products
-- Booking appointments
 - Support
 
 ### DataBase: MySQL 
