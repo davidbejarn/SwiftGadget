@@ -1,6 +1,6 @@
 # SwiftGadget
 
-## ✨ Descripción
+## Descripción
 **SwiftGadget** es una plataforma e-commerce enfocada en la venta de dispositivos tecnológicos y periféricos para gamers.
 
 ## 📚 Índice
@@ -18,7 +18,7 @@
 En el mundo digital, la eficiencia y personalización en la atención al cliente son importantes para una pagina web de un e-commerce. La integración de inteligencia artificial en plataformas de venta permite optimizar respuestas y mejorar la experiencia de usuario.
 
 ## 🔍 Objetivos
-### 🎯 Objetivo General
+### 🖱️ Objetivo General
 Desarrollar una plataforma de comercio electrónico eficiente, centrada en la experiencia del usuario y la automatización del servicio al cliente.
 
 ### 🔹 Objetivos Específicos
