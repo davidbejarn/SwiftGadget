@@ -37,7 +37,7 @@ Con **SwiftGadget**, buscamos transformar la experiencia de compra online, ofrec
 - **Apache/Nginx** (Servidor Web)
 - **HTML/CSS** (Lenguajes de Marcado y Estilos)
 
-## 🛠️ Instalación
+## 🛠️ Clonar
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/SwiftGadget.git
