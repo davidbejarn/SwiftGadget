@@ -1,4 +1,8 @@
 # SwiftGadget
+<p float="left">
+  <img src="./assets/sw.jpg" alt="Interfaz principal" width="400"/>
+  <img src="./assets/sw2.jpg" alt="Interfaz principal" width="400"/>
+</p>
 
 ## Descripción
 **SwiftGadget** es una plataforma e-commerce enfocada en la venta de dispositivos tecnológicos y periféricos para gamers.
